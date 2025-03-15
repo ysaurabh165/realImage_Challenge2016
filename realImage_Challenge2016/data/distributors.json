@@ -1,0 +1,12 @@
+[
+    {
+        "name": "DISTRIBUTOR1",
+        "include": ["INDIA", "UNITEDSTATES"],
+        "exclude": ["KARNATAKA-INDIA", "CHENNAI-TAMILNADU-INDIA"]
+    },
+    {
+        "name": "DISTRIBUTOR2",
+        "include": ["EUROPE"],
+        "exclude": ["GERMANY", "FRANCE"]
+    }
+]
